@@ -1,2 +1,4 @@
-# repararpermisos
-Reparar Permisos Carpetas
+# Repara Permisos de Carpetas
+Reparar Permisos Carpetas dañadas en root
+
+
