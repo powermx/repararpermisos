@@ -1,0 +1,2 @@
+# repararpermisos
+Reparar Permisos Carpetas
